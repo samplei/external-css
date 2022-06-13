@@ -1,0 +1,36 @@
+h3{
+    text-align: center;
+    font-size: 60px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(5, 108, 148);
+}
+span{
+    color: rgb(0, 157, 248);
+    font-size: 30px;
+    font-family:Courier New ;
+}
+p{
+    text-align: justify;
+}
+p #span-one{
+    font-size: 40px;
+    font-family:Courier New ;
+    color: rgb(209, 159, 20);
+}
+p #span-2{
+    font-size: 20px;
+    font-family:Courier New ;
+    color:rgb(11, 184, 141)
+    
+}
+a{
+    text-decoration: none;
+    background-color:rgba(91, 161, 10, 0.774) ;
+    font-family: arial;
+    display: block;
+    text-align: center;
+    width: 120px;
+    height: 60px;
+    line-height: 60px;
+    color: black;
+}
